@@ -1,2 +1,2 @@
 # House-Ymaping
-Taking the for sell signs out of the ymap's
+Taking the house's for-sell signs out of the ymap's
